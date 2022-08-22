@@ -1,0 +1,1 @@
+document.getElementById('sleep').addEventListener('click', solve)
